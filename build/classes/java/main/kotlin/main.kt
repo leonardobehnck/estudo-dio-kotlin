@@ -38,8 +38,6 @@ class ProdutoFactory {
 data class ItemPedido (val produto: Produto, var quantidade: Int = 0)
 
 
-
-
 fun main() {
 
   //Criar os produtos
